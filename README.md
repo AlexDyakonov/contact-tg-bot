@@ -1,5 +1,8 @@
-<p align="center" style ="font-size: 24px"><strong>Пользовательское приложение </br>
-Телеграм бот телефонная книга
+<p align="center">
+  <img src="src/main/resources/bot_icon.png"  alt="logo"/>
+</p>
+<p align="center" style ="font-size: 24px"><strong>Телеграм бот </br>
+Телефонная книга
 </p>
 Выполнил: <strong>Дьяконов Александр</strong></br>
 </p>
